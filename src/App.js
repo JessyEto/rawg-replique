@@ -1,7 +1,7 @@
 import "./App.css";
 
 // Import pages
-import { Home } from "./pages/pagesExport";
+// import { Home } from "./pages/pagesExport";
 
 function App() {
   return <div>Hello World !!</div>;
